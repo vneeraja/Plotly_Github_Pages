@@ -1,0 +1,19 @@
+body {
+    background-color: azure;
+}
+
+.jumbotron {
+    background-image: url("../images/Lab.jpg");
+    background-size: cover;
+    height: 10%;
+
+}
+
+.well {
+    background-color: lightskyblue;
+}
+
+.panel {
+    background-color: aliceblue;
+}
+
